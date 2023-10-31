@@ -18,6 +18,8 @@
 
 [录取人数：114] [中国科学院软件所2024年推免生拟录取名单](http://www.is.cas.cn/yjsjy2016/zsxx2016/202310/t20231016_6902392.html)
 
+[录取人数：39] [中国科学院计算机网络信息中心2024级推免生拟录取名单公示](http://cnic.cas.cn/yjsjy/zsxx/tjms/202310/t20231013_6894899.html)
+
 [录取人数：87] [中国科学院深圳先进技术研究院2024年招收推荐免试研究生拟录取名单公示](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202310/t20231007_6890286.html)
 
 [录取人数：220] [中国科学院2024年自动化所推免直博和硕士生拟录取名单公示](http://www.ia.cas.cn/yjsjy/zs/sszs/202310/t20231020_6904407.html)
@@ -137,6 +139,14 @@
 [录取人数：524] [北京大学深圳研究生院2024年拟录取推荐免试硕士研究生公示名单](https://admission.pkusz.edu.cn/article/view/id-217.html)
 
 [录取人数：60] [北京大学2024年未来技术学院拟录取推荐免试博士研究生公示名单](https://future.pku.edu.cn/xwzk/f8e4008232d84357a5be9c0f1b2b7252.htm)
+
+[录取人数：77] [北京大学智能学院2024年推荐免试研究生拟录取名单公示](https://sai.pku.edu.cn/info/1034/2889.htm)
+
+[录取人数：99] [北京大学电子学院2024年推荐免试研究生拟录取名单公示](https://ele.pku.edu.cn/info/1232/2816.htm)
+
+[录取人数：16] [北京大学软件与微电子学院2024年接收推荐免试博士研究生拟录取公示](https://www.ss.pku.edu.cn/admission/admnotice/4523.html)
+
+[录取人数：232] [北京大学2024年软件与微电子学院拟录取推荐免试硕士研究生公示名单](https://www.ss.pku.edu.cn/admission/admnotice/4530.html)
 
 [录取人数：7] [北京科技大学顺德创新学院2024年接收推免生拟录取名单公示](https://sd.ustb.edu.cn/tzgg/01c9eb18447a4a6e86cef3f0b4290140.htm)
 

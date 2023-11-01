@@ -134,9 +134,19 @@
 
 [录取人数：167] [浙江大学计算机科学与技术学院2024年接收推荐免试硕士研究生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
 
+[录取人数：158] [浙江大学计算机学院2024年推荐免试直博生拟录取名单公示](http://www.cs.zju.edu.cn/csen/2023/1031/c27006a2820578/page.htm)
+
 [录取人数：547] [浙江大学工程师学院2024年接收推荐免试硕士研究生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
 
 [录取人数：47] [浙江大学微纳电子学院2024年接收推荐免试硕士研究生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
+
+[录取人数：18] [浙江大学微纳电子学院2024年接收推荐免试直博生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
+
+[录取人数：18] [浙江大学微纳电子学院2024年接收推荐免试直博生拟录取名单公示](https://mne.zju.edu.cn/2023/1030/c54024a2819882/page.htm)
+
+[录取人数：68] [清华大学2024年软件学院接收推荐免试直硕生拟录取名单公示](https://www.thss.tsinghua.edu.cn/info/1039/2183.htm)
+
+[录取人数：15] [清华大学2024年软件学院接收推荐免试直博生拟录取名单公示](https://www.thss.tsinghua.edu.cn/info/1039/2182.htm)
 
 [录取人数：199] [天津大学智能与计算学部2024级推免生拟录取名单公示](http://cic.tju.edu.cn/info/1041/4671.htm)
 
@@ -271,6 +281,8 @@
 [录取人数：2968] [中国科学技术大学2024年拟接收推免生名单公示](https://yz.ustc.edu.cn/article/2678/182?num=-1)
 
 [录取人数：1930] [湖南大学2024年拟录取推荐免试研究生名单公示](http://gra.hnu.edu.cn/info/1075/9349.htm)
+
+[录取人数：无] [四川大学2024年推免生(含直博生)拟录取名单公示](https://yz.scu.edu.cn/tms/yxstmgs)
 
 [录取人数：2910] [中山大学2024年拟录取推荐免试研究生（含推免硕士生和直博生）名单的通知](https://graduate.sysu.edu.cn/zsw/article/432)
 
@@ -531,6 +543,21 @@
 [录取人数：无] [西安石油大学研究生院2024年拟录取推免生名单公示](http://yjs.xsyu.edu.cn/info/1063/5311.htm)
 
 [录取人数：无] [广东外语外贸大学2024年推免硕士研究生拟录取名单公示](https://yz.gdufs.edu.cn/info/1014/3337.htm)
+
+[录取人数：无] [华东交通大学2024年推免生拟录取名单公示](https://yjsy.ecjtu.edu.cn/info/1115/3019.htm)
+
+[录取人数：无] [陕西科技大学2024年推荐免试研究生拟录取名单公示](https://yjszs.sust.edu.cn/info/1014/2519.htm)
+
+[录取人数：无] [华东理工大学2024年拟接收推荐免试研究生名单公示](https://gschool.ecust.edu.cn/2023/1030/c12750a162102/page.htm)
+
+[录取人数：无] [南通大学2024年推荐免试硕士研究生拟录取名单公示](https://yjszs.ntu.edu.cn/2023/1027/c7623a221699/page.htm)
+
+[录取人数：无] [内蒙古大学2024年拟录取推免生名单公示](https://gs.imu.edu.cn/info/1087/4224.htm)
+
+[录取人数：无] [河南农业大学2024年推免硕士研究生拟录取名单公示](https://gra.henau.edu.cn/a/zhaoshenggongzuo/20231023/3854.html)
+
+[录取人数：无] [广西大学2024年接收推荐免试研究生拟录取名单公示](https://yjsc.gxu.edu.cn/info/1021/2709.htm)
+
 
 
 

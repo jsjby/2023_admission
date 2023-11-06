@@ -116,6 +116,8 @@
 
 [录取人数：245] [中山大学计算机学院2024年推荐免试研究生复试成绩](https://cse.sysu.edu.cn/content/6935)
 
+[录取人数：55] [同济大学测绘与地理信息学院2024年接收推荐免试研究生（含直接攻博）拟录取公示](https://celiang.tongji.edu.cn/info/1205/3401.htm)
+
 [录取人数：46] [浙江大学控制科学与工程学院2024年推荐免试直接攻读博士研究生拟录取公示](http://www.cse.zju.edu.cn/2023/1026/c39336a2817661/page.htm)
 
 [录取人数：3] [浙江大学软件学院2024年推荐免试直博生拟录取名单公示](http://www.cst.zju.edu.cn/2023/1026/c36207a2817739/page.htm)
@@ -123,6 +125,8 @@
 [录取人数：239] [浙江大学软件学院2024年接收推荐免试硕士研究生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
 
 [录取人数：49] [浙江大学生物医学工程与仪器科学学院2024年接收推荐免试硕士研究生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
+
+[录取人数：19] [浙江大学生仪学院2024年直接攻读博士研究生招生拟录取公示](http://www.cbeis.zju.edu.cn/2023/1101/c63837a2821350/page.htm)
 
 [录取人数：113] [浙江大学海洋学院2024年接收推荐免试硕士研究生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
 
@@ -156,6 +160,10 @@
 
 [录取人数：70] [浙江大学国际联合学院（海宁国际校区）2024年推荐免试硕士研究生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
 
+[录取人数：29] [浙江大学海洋学院2024年推荐免试直接攻读博士学位研究生拟录取名单公示](http://oc.zju.edu.cn/2023/1102/c52420a2821579/page.htm)
+
+[录取人数：113] [浙江大学海洋学院2024年推荐免试硕士研究生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
+
 [录取人数：68] [清华大学2024年软件学院接收推荐免试直硕生拟录取名单公示](https://www.thss.tsinghua.edu.cn/info/1039/2183.htm)
 
 [录取人数：15] [清华大学2024年软件学院接收推荐免试直博生拟录取名单公示](https://www.thss.tsinghua.edu.cn/info/1039/2182.htm)
@@ -171,6 +179,26 @@
 [录取人数：14] [清华大学2024年集成电路学院接收推荐免试直博生拟录取名单公示](https://www.sic.tsinghua.edu.cn/info/1037/2001.htm)
 
 [录取人数：64] [清华大学2024年集成电路学院接收推荐免试直硕生拟录取名单公示](https://www.sic.tsinghua.edu.cn/info/1036/2002.htm)
+
+[录取人数：12] [清华大学2024年高等研究院接收推荐免试直博生拟录取名单公示](https://www.ias.tsinghua.edu.cn/info/1044/1752.htm)
+
+[录取人数：41] [清华大学2024年交叉信息研究院接收推荐免试直博生拟录取名单公示](https://iiis.tsinghua.edu.cn/show-10476-1.html)
+
+[录取人数：7] [清华大学2024年交叉信息研究院接收推荐免试直硕生拟录取名单公示](https://iiis.tsinghua.edu.cn/show-10475-1.html)
+
+[录取人数：81] [清华大学2024年计算机科学与技术系接收推荐免试直博生拟录取名单公示](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/a40b3a67-25f7-4eb9-bafc-89ad2a316afd?yxsdm=024)
+
+[录取人数：24] [清华大学2024年计算机科学与技术系接收推荐免试直硕生拟录取名单公示](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/9c299d82-c3ea-45d2-ad5e-a457f2945cc9?yxsdm=024)
+
+[录取人数：12] [清华大学-鹏城实验室联合培养博士专项计划 2024 年接收推荐免试直博生拟录取名单公示](https://www.sigs.tsinghua.edu.cn/_upload/article/files/6d/70/8777999e46969cdeb84dffe9d1e6/ee204379-b658-4872-97dd-431931043ec8.pdf)
+
+[录取人数：26] [清华大学2024年网络科学与网络空间研究院接收推荐免试直博生拟录取名单公示](https://www.insc.tsinghua.edu.cn/info/1179/3590.htm)
+
+[录取人数：20] [清华大学2024年网络科学与网络空间研究院接收推荐免试直硕生拟录取名单公示](https://www.insc.tsinghua.edu.cn/info/1179/3589.htm)
+
+[录取人数：52] [清华大学深圳国际研究生院 2024 年接收推荐免试直博生拟录取名单公示](https://www.sigs.tsinghua.edu.cn/_upload/article/files/a7/17/7994df0a4c45a696d4118278c27e/ecfc5332-bbc3-431f-93da-bc9c52938525.pdf)
+
+[录取人数：无] [清华大学深圳国际研究生院2024年接收推荐免试直硕生拟录取名单公示](https://www.sigs.tsinghua.edu.cn/2023/1101/c111a91696/page.htm)
 
 [录取人数：199] [天津大学智能与计算学部2024级推免生拟录取名单公示](http://cic.tju.edu.cn/info/1041/4671.htm)
 
@@ -254,6 +282,10 @@
 
 [录取人数：232] [北京大学2024年软件与微电子学院拟录取推荐免试硕士研究生公示名单](https://www.ss.pku.edu.cn/admission/admnotice/4530.html)
 
+[录取人数：122] [北京理工大学网络空间安全学院接收2024年推免研究生名单公示](https://cst.bit.edu.cn/xxfw/gsxx/8c100da27bf14541a04c6252fe2fcefc.htm)
+
+[录取人数：170] [北京理工大学光电学院2024年接收推免生公示名单](https://opt.bit.edu.cn/tzgg2/tzgg/97d74f4433704055b8aafaace733a381.htm)
+
 [录取人数：7] [北京科技大学顺德创新学院2024年接收推免生拟录取名单公示](https://sd.ustb.edu.cn/tzgg/01c9eb18447a4a6e86cef3f0b4290140.htm)
 
 [录取人数：88] [北京科技大学计算机与通信工程学院2024年接收推免生拟录取名单公示](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-10-23/2032.html)
@@ -302,6 +334,8 @@
 
 [录取人数：11] [华南师范大学信息光电子科技学院2024年拟接收推荐免试攻读硕士学位研究生名单公示](http://ioe.scnu.edu.cn/a/20231012/1893.html)
 
+[录取人数：1] [成都中医药大学智能医学学院2024年推荐免试攻读硕士学位研究生 拟录取名单公示](https://www.cdutcm.edu.cn/yxxxgcxy/zsgzx/ssszs/content_96625)
+
 [录取人数：24] [中南财经政法大学信息与安全工程学院接收2024届本科毕业生推荐免试攻读全日制硕士研究生拟录取名单公告](https://xagx.zuel.edu.cn/2023/1010/c3402a345317/page.htm)
 
 [录取人数：34] [中国地质大学信息工程学院2024年免试推荐研究生拟录取名单公示](https://bm.cugb.edu.cn/yjsyzsb/c/2023-10-12/789218.shtml)
@@ -334,6 +368,8 @@
 
 [录取人数：2452] [同济大学2024年拟录取推荐免试研究生(含直接攻博)名单公示](https://yz.tongji.edu.cn/info/1010/3318.htm)
 
+[录取人数：2733] [南京大学2024年接收推荐免试研究生拟录取名单公示](https://yzb.nju.edu.cn/ca/de/c47863a641758/page.htm)
+
 [录取人数：无] [西北工业大学2024年推荐免试研究生拟录取名单公示](https://yzb.nwpu.edu.cn/info/1174/8768.htm)
 
 [录取人数：2275] [北京航空航天大学接收推荐免试攻读2024年研究生拟录取名单公示（不含强基计划）](https://yzb.buaa.edu.cn/info/1036/2958.htm)
@@ -342,6 +378,12 @@
 
 [录取人数：928] [中国海洋大学2024年推免拟录取名单公示](http://yz.ouc.edu.cn/2023/1024/c5926a445992/page.htm)
 
+[录取人数：2059] [北京大学2024年拟录取推荐免试研究生公示名单（硕士）](https://admission.pku.edu.cn/docs/20231101155454268680.pdf?)
+
+[录取人数：1535] [北京大学2024年拟录取推荐免试研究生公示名单（直博）](https://admission.pku.edu.cn/docs/20231101155544873752.pdf?)
+
+[录取人数：1551] [北京交通大学2024年推免生拟录取名单公示通知](https://gs.bjtu.edu.cn/cms/zszt/item/2903.html)
+
 [录取人数：1839] [西安电子科技大学2024年推荐免试研究生拟录取名单公示](https://gr.xidian.edu.cn/info/1074/13143.htm)
 
 [录取人数：无] [大连理工大学2024年接收推荐免试攻读硕士（博士）学位研究生拟录取名单公示](https://gs.dlut.edu.cn/info/1173/13543.htm)
@@ -349,6 +391,10 @@
 [录取人数：30] [大连理工大学关于“国优计划”推免选拔结果的公示](https://gs.dlut.edu.cn/info/1173/13538.htm)
 
 [录取人数：2305] [吉林大学2024年接收推荐免试攻读研究生拟录取名单公示](https://zsb.jlu.edu.cn/info/2987.html)
+
+[录取人数：无] [清华大学2024年拟录取推免生名单公示](https://yz.tsinghua.edu.cn/info/1020/2675.htm)
+
+[录取人数：1668] [东北大学2024年接收推荐免试研究生拟录取名单公示](http://yz.neu.edu.cn/2023/1013/c5792a236169/page.htm)
 
 [录取人数：1] [山东大学2024年推荐免试硕士研究生及本科直博生拟录取名单公示](https://www.yz.sdu.edu.cn/info/1014/5728.htm)
 
@@ -589,6 +635,28 @@
 [录取人数：无] [河南农业大学2024年推免硕士研究生拟录取名单公示](https://gra.henau.edu.cn/a/zhaoshenggongzuo/20231023/3854.html)
 
 [录取人数：无] [广西大学2024年接收推荐免试研究生拟录取名单公示](https://yjsc.gxu.edu.cn/info/1021/2709.htm)
+
+[录取人数：无] [武汉科技大学2024年接收推荐免试攻读硕士学位和直接攻读博士学位研究生拟录取名单公示](https://ysxy.wust.edu.cn/info/1831/42461.htm)
+
+[录取人数：无] [北京信息科技大学2024 年推免生拟录取名单公示及有关事项通知](https://yanjiusheng.bistu.edu.cn/zsgl/zsxx/zsgg/202310/P020231024399010585524.pdf)
+
+[录取人数：无] [安徽农业大学2024年拟录取推免生名单公示](http://yjs.ahau.edu.cn/info/1005/25374.htm)
+
+[录取人数：无] [南华大学2024年推荐免试研究生拟录取名单公示](https://yjs.usc.edu.cn/info/1313/11815.htm)
+
+[录取人数：无] [江苏大学2024年推免生（含直博生）拟录取名单公示](https://yz.ujs.edu.cn/info/1010/5337.htm)
+
+[录取人数：无] [河北师范大学2024年接收推荐免试硕士研究生拟录取名单](https://yjsy.hebtu.edu.cn/a/2023/11/01/D0C500DCFDD54CC685E1050BB3A9C535.html)
+
+[录取人数：无] [湖北大学2024年招收优秀应届本科毕业生免试攻读研究生拟录取名单公示](http://yz.hubu.edu.cn/info/1011/2869.htm)
+
+[录取人数：无] [广西师范大学2024年接收推荐免试硕士研究生名单公示](http://www.yz.gxnu.edu.cn/2023/1101/c4626a277121/page.htm)
+
+[录取人数：无] [北京林业大学2024年推荐免试研究生拟录取名单公示](http://graduate.bjfu.edu.cn/zsgl/zsdt/9149cfd0fb5b4497aeea2a339b907996.html)
+
+[录取人数：无] [华东交通大学2024年推免生拟录取补录名单公示](https://yjsy.ecjtu.edu.cn/info/1115/3021.htm)
+
+[录取人数：875] [哈尔滨工程大学2024年推荐免试攻读硕士研究生、直博生拟录取人员名单的公示](http://yzb.hrbeu.edu.cn/2023/1101/c3262a318626/page.htm)
 
 
 

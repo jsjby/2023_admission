@@ -292,6 +292,10 @@
 
 [录取人数：102] [北京理工大学2024年集成电路与电子学院推免生（含本直博）拟录取名单公示](https://ice.bit.edu.cn/xxfw/tzgg1/713f04e12c724d4294a5088b519598b1.htm)
 
+[录取人数：1328] [北京邮电大学2024年推荐免试硕士研究生拟录取名单的通知](https://yzb.bupt.edu.cn/content/content.php?p=2_1_648)
+
+[录取人数：63] [北京邮电大学2024年直博生拟录取名单的通知](https://yzb.bupt.edu.cn/content/content.php?p=2_2_594)
+
 [录取人数：7] [北京科技大学顺德创新学院2024年接收推免生拟录取名单公示](https://sd.ustb.edu.cn/tzgg/01c9eb18447a4a6e86cef3f0b4290140.htm)
 
 [录取人数：88] [北京科技大学计算机与通信工程学院2024年接收推免生拟录取名单公示](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-10-23/2032.html)

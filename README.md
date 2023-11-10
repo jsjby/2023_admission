@@ -144,6 +144,8 @@
 
 [录取人数：547] [浙江大学工程师学院2024年接收推荐免试硕士研究生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
 
+[录取人数91] [浙江大学工程师学院2024年推荐免试直博生拟录取名单公示](https://pi.zju.edu.cn/2023/1106/c67026a2823017/page.htm)
+
 [录取人数：47] [浙江大学微纳电子学院2024年接收推荐免试硕士研究生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)
 
 [录取人数：18] [浙江大学微纳电子学院2024年接收推荐免试直博生拟录取名单公示](https://yjsy.zju.edu.cn/open/zsss/ZsssMssGs)

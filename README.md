@@ -292,10 +292,6 @@
 
 [录取人数：102] [北京理工大学2024年集成电路与电子学院推免生（含本直博）拟录取名单公示](https://ice.bit.edu.cn/xxfw/tzgg1/713f04e12c724d4294a5088b519598b1.htm)
 
-[录取人数：1328] [北京邮电大学2024年推荐免试硕士研究生拟录取名单的通知](https://yzb.bupt.edu.cn/content/content.php?p=2_1_648)
-
-[录取人数：63] [北京邮电大学2024年直博生拟录取名单的通知](https://yzb.bupt.edu.cn/content/content.php?p=2_2_594)
-
 [录取人数：7] [北京科技大学顺德创新学院2024年接收推免生拟录取名单公示](https://sd.ustb.edu.cn/tzgg/01c9eb18447a4a6e86cef3f0b4290140.htm)
 
 [录取人数：88] [北京科技大学计算机与通信工程学院2024年接收推免生拟录取名单公示](http://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2023-10-23/2032.html)
@@ -376,6 +372,10 @@
 
 [录取人数：1795] [北京师范大学2024年接收推荐免试攻读研究生拟录取名单公示](https://yz.bnu.edu.cn/detail/d74b1f5b-64e5-4cde-be15-e4d1d4e03ed7)
 
+[录取人数：1328] [北京邮电大学2024年推荐免试硕士研究生拟录取名单的通知](https://yzb.bupt.edu.cn/content/content.php?p=2_1_648)
+
+[录取人数：63] [北京邮电大学2024年直博生拟录取名单的通知](https://yzb.bupt.edu.cn/content/content.php?p=2_2_594)
+
 [录取人数：2452] [同济大学2024年拟录取推荐免试研究生(含直接攻博)名单公示](https://yz.tongji.edu.cn/info/1010/3318.htm)
 
 [录取人数：2733] [南京大学2024年接收推荐免试研究生拟录取名单公示](https://yzb.nju.edu.cn/ca/de/c47863a641758/page.htm)
@@ -427,6 +427,10 @@
 [录取人数：122] [哈尔滨工业大学（威海）2024年推荐免试研究生拟录取名单公示](http://yjsc.hitwh.edu.cn/2023/1011/c2134a174134/page.htm)
 
 [录取人数：无] [北京科技大学2024年推免生拟录取名单公示](https://yzxc.ustb.edu.cn/gkgs/3fd32ccd11544470b0dd6542c0b869e0.htm)
+
+[录取人数：1460] [苏州大学2024年接收推荐免试研究生（含直博生）拟录取名单公示](https://yzb.bupt.edu.cn/content/content.php?p=2_1_648)
+
+[录取人数：33] [大连工业大学2024年接收推荐免试研究生拟录取名单公示](http://yjs.dep.dlpu.edu.cn/_infolist/info_1.asp?f_menu_id=47&f_id=279)
 
 [录取人数：无] [中国石油大学（华东）2024年接收推荐免试硕士研究生拟录取名单公示](http://zs.gs.upc.edu.cn/2023/1027/c10709a414682/page.htm)
 
